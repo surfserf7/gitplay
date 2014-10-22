@@ -1,0 +1,17 @@
+There are many options for installing 'git' on your machine.
+Commandline versions exist for various operating systems as
+well as GUI front ends. There are source make/make-install
+options, package manager options, etc. etc. The internet is
+our friend.
+
+Once something is installed, you need to set up a couple of
+global options:
+
+  $ git config --global user.name "John Doe"
+  $ git config --global user.email johndoe@example.com
+
+There are other options. ou can set a default editor or a
+diff tool, etc. Check settings by typing:
+
+  $ git config --list
+
