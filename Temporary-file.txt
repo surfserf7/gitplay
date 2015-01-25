@@ -1,0 +1,3 @@
+This is a temporary file.
+It will be deleted.
+Easy come, easy go!
