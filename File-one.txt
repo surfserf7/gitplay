@@ -10,4 +10,10 @@ Here, we made a change after v1.0.0 was tagged.
 
 This change was added at the start of a wild-goose-chase. It is NOT in that branch because I never checked out wild-goose-chase after it was created.
 
+This is the first edit made on branch 'wild-goose-chase'.
+
+Now, we have changes made to this file on both master and wild-goose-chase. Whatever will git do if we try to merge wild-goose-chase back into master? Just to make it interesting, the temporary files in the project folder and the subfolder will also be deleted.
+
+Merge conflicts were edited by hand and this line was added.
+
 
