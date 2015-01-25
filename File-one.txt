@@ -16,4 +16,5 @@ Now, we have changes made to this file on both master and wild-goose-chase. What
 
 Merge conflicts were edited by hand and this line was added.
 
+Created a new branch (dangle-branch) and did some work in it. Came back to master here.
 
