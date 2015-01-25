@@ -1,0 +1,5 @@
+This is a text file for playing around with git.
+It will be added to a git repo and edited several times in the course of playing around with various git commands.
+There really isn't any better way to learn git than just trying it out and experimenting with its features.
+
+So, that's what we are doing!

@@ -10,7 +10,7 @@ global options:
   $ git config --global user.name "John Doe"
   $ git config --global user.email johndoe@example.com
 
-There are other options. ou can set a default editor or a
+There are other options. You can set a default editor or a
 diff tool, etc. Check settings by typing:
 
   $ git config --list
