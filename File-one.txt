@@ -7,3 +7,5 @@ There really isn't any better way to learn git than just trying it out and exper
 So, that's what we are doing!
 
 Here, we made a change after v1.0.0 was tagged.
+
+This is the first edit made on branch 'wild-goose-chase'.
