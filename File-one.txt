@@ -16,6 +16,9 @@ Now, we have changes made to this file on both master and wild-goose-chase. What
 
 Merge conflicts were edited by hand and this line was added.
 
-Now we start another branch: dangle-branch
+Now we start another branch: dangle-branch.
+
+Edited some files in dangle-branch.
+
 
 
