@@ -8,4 +8,6 @@ So, that's what we are doing!
 
 Here, we made a change after v1.0.0 was tagged.
 
-This change was added at the start of a wild goose chase.
+This change was added at the start of a wild-goose-chase. It is NOT in that branch because I never checked out wild-goose-chase after it was created.
+
+
