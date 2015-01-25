@@ -1,3 +1,0 @@
-This is a temporary file created (then deleted at a later commit) in a subfolder of the gitplay repo.
-
-Easy come, easy go.
