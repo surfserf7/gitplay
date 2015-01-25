@@ -5,3 +5,5 @@ It will be added to a git repo and edited several times in the course of playing
 There really isn't any better way to learn git than just trying it out and experimenting with its features.
 
 So, that's what we are doing!
+
+Here, we made a change after v1.0.0 was tagged.
