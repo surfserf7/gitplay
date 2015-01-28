@@ -9,3 +9,9 @@ logs
 
 # Sublime Text workspace files are user-specific
 *.sublime-workspace
+
+# Don't save contents of node module folders
+node_modules/
+
+# Don't save thumbnail files
+Thumbs.db
