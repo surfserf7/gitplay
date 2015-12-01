@@ -1,1 +1,3 @@
 This is one of two changes made to experiment with rewriting history.
+
+It's also been used to play with Atom's git integration.

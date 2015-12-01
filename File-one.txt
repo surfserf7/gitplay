@@ -21,3 +21,5 @@ Created a new branch (dangle-branch) and did some work in it. Came back to maste
 Made changes on master; not on dangle-branch.
 
 This is one of two changes made to experiment with rewriting history.
+
+Today, I'm playing with Atom's git integration.
