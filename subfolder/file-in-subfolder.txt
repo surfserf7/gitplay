@@ -1,3 +1,0 @@
-This is a text file in a subfolder of the gitplay repo.
-
-It will be used to explore possible idiosyncrasies in the way git add handles subfolders.
