@@ -1,2 +1,0 @@
-This is another test file.
-Still playing with git subfolders.
